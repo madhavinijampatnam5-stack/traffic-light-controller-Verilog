@@ -12,3 +12,6 @@
 
 ## How to Run
 Use EDA Playground or Vivado to simulate with the testbench.
+## Output
+
+![Output](output.png)
